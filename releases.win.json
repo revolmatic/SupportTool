@@ -1,0 +1,65 @@
+{
+  "Assets": [
+    {
+      "PackageId": "RevolMaticSupportTool",
+      "Version": "2.2.0",
+      "Type": "Full",
+      "FileName": "RevolMaticSupportTool-2.2.0-full.nupkg",
+      "SHA1": "E914557E923AAD9435E128ED083977EBE8937A50",
+      "Size": 71370479
+    },
+    {
+      "PackageId": "RevolMaticSupportTool",
+      "Version": "2.2.0",
+      "Type": "Delta",
+      "FileName": "RevolMaticSupportTool-2.2.0-delta.nupkg",
+      "SHA1": "E914557E923AAD9435E128ED083977EBE8937A50",
+      "Size": 71370479
+    },
+    {
+      "PackageId": "RevolMaticSupportTool",
+      "Version": "2.1.0",
+      "Type": "Full",
+      "FileName": "RevolMaticSupportTool-2.1.0-full.nupkg",
+      "SHA1": "AEBF60980930DCE54596206588A7804BD40E6D13",
+      "Size": 68534954,
+      "NotesMarkdown": "\u003C![CDATA[\n\u003Cp\u003EFixes of Timeout Suppression, adjustment of erase timeout, performance improvements.\u003C/p\u003E\n\n]]\u003E"
+    },
+    {
+      "PackageId": "RevolMaticSupportTool",
+      "Version": "2.1.0",
+      "Type": "Delta",
+      "FileName": "RevolMaticSupportTool-2.1.0-delta.nupkg",
+      "SHA1": "B914545CA8F57B349582E0FDD554FCE9BBFC9DEB",
+      "Size": 68534954,
+      "NotesMarkdown": "\u003C![CDATA[\n\u003Cp\u003EFixes of Timeout Suppression, adjustment of erase timeout, performance improvements.\u003C/p\u003E\n\n]]\u003E"
+    },
+    {
+      "PackageId": "RevolMaticSupportTool",
+      "Version": "2.0.1",
+      "Type": "Full",
+      "FileName": "RevolMaticSupportTool-2.0.1-full.nupkg",
+      "SHA1": "3AE25579FD2CB849640FA79C6D82E743515F01C9",
+      "Size": 68381258,
+      "NotesMarkdown": "\u003C![CDATA[\n\u003Cp\u003ESummary of changes made in this release of the package.\u003C/p\u003E\n\n]]\u003E"
+    },
+    {
+      "PackageId": "RevolMaticSupportTool",
+      "Version": "2.0.1",
+      "Type": "Delta",
+      "FileName": "RevolMaticSupportTool-2.0.1-delta.nupkg",
+      "SHA1": "4F97BD6C5CD80BDC3531851267C49A8AF5E3D96C",
+      "Size": 252777,
+      "NotesMarkdown": "\u003C![CDATA[\n\u003Cp\u003ESummary of changes made in this release of the package.\u003C/p\u003E\n\n]]\u003E"
+    },
+    {
+      "PackageId": "RevolMaticSupportTool",
+      "Version": "2.0.0",
+      "Type": "Full",
+      "FileName": "RevolMaticSupportTool-2.0.0-full.nupkg",
+      "SHA1": "B69C25CB550F8BE5E822DCC8313237A1681871EA",
+      "Size": 68381075,
+      "NotesMarkdown": "\u003C![CDATA[\n\u003Cp\u003ESummary of changes made in this release of the package.\u003C/p\u003E\n\n]]\u003E"
+    }
+  ]
+}
